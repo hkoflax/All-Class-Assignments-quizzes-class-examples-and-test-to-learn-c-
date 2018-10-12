@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderExceptionDemo", "OrderExceptionDemo\OrderExceptionDemo.csproj", "{E55A9B78-3637-4D86-8343-F34C3D46FD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderExceptionDemo2", "OrderExceptionDemo2\OrderExceptionDemo2.csproj", "{D672B948-9ECB-425A-AF69-3739F42F4A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55A9B78-3637-4D86-8343-F34C3D46FD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55A9B78-3637-4D86-8343-F34C3D46FD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55A9B78-3637-4D86-8343-F34C3D46FD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55A9B78-3637-4D86-8343-F34C3D46FD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D672B948-9ECB-425A-AF69-3739F42F4A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D672B948-9ECB-425A-AF69-3739F42F4A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D672B948-9ECB-425A-AF69-3739F42F4A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D672B948-9ECB-425A-AF69-3739F42F4A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+            /* to write the testing of the best result*/
+            /*Swimmer aswimmer1 = new Swimmer();
+            aswimmer1.AddAsBestTime(PoolType.SCM, Stroke.Freestyle, EventDistance._1500, new TimeSpan(00, 00, 13, 60));
+            aswimmer1.AddAsBestTime(PoolType.SCM, Stroke.Backstroke, EventDistance._200, new TimeSpan(00, 00, 20, 60));
+            aswimmer1.AddAsBestTime(PoolType.LCM, Stroke.Butterfly, EventDistance._100, new TimeSpan(00, 00, 25, 60));
+            aswimmer1.AddAsBestTime(PoolType.SCY, Stroke.Breaststroke, EventDistance._50, new TimeSpan(00, 00, 30, 60));
+            Console.WriteLine(Convert.ToString(aswimmer1.GetBestTime(PoolType.SCM, Stroke.Freestyle, EventDistance._1500)));
+            Console.WriteLine(Convert.ToString(aswimmer1.GetBestTime(PoolType.SCM, Stroke.Backstroke, EventDistance._200)));
+            Console.WriteLine(Convert.ToString(aswimmer1.GetBestTime(PoolType.LCM, Stroke.Butterfly, EventDistance._100)));
+            Console.WriteLine(Convert.ToString(aswimmer1.GetBestTime(PoolType.SCY, Stroke.Breaststroke, EventDistance._50)));
+            Console.WriteLine("****************************************************************");
+            aswimmer1.AddAsBestTime(PoolType.SCM, Stroke.Freestyle, EventDistance._1500, new TimeSpan(00, 00, 17, 60));
+            Console.WriteLine(Convert.ToString(aswimmer1.GetBestTime(PoolType.SCM, Stroke.Freestyle, EventDistance._1500)));
+            aswimmer1.AddAsBestTime(PoolType.SCM, Stroke.Freestyle, EventDistance._1500, new TimeSpan(00, 00, 12, 60));
+            Console.WriteLine(Convert.ToString(aswimmer1.GetBestTime(PoolType.SCM, Stroke.Freestyle, EventDistance._1500)));
+            Console.WriteLine("****************************************************************");
+            aswimmer1.AddAsBestTime(PoolType.SCM, Stroke.Backstroke, EventDistance._200, new TimeSpan(00, 00, 25, 60));
+            Console.WriteLine(Convert.ToString(aswimmer1.GetBestTime(PoolType.SCM, Stroke.Backstroke, EventDistance._200)));
+            aswimmer1.AddAsBestTime(PoolType.SCM, Stroke.Backstroke, EventDistance._200, new TimeSpan(00, 00, 15, 60));
+            Console.WriteLine(Convert.ToString(aswimmer1.GetBestTime(PoolType.SCM, Stroke.Backstroke, EventDistance._200)));*/
